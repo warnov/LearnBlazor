@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\src\\learn\\blazor\\LearnBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E833E59-6D13-4B17-A983-0B3B50EC8552}|Bookstore\\Bookstore.csproj|d:\\src\\learn\\blazor\\learnblazor\\bookstore\\shared\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E833E59-6D13-4B17-A983-0B3B50EC8552}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\shared\\bookcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E833E59-6D13-4B17-A983-0B3B50EC8552}|Bookstore\\Bookstore.csproj|d:\\src\\learn\\blazor\\learnblazor\\bookstore\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E833E59-6D13-4B17-A983-0B3B50EC8552}|Bookstore\\Bookstore.csproj|solutionrelative:bookstore\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCard.razor",
+              "DocumentMoniker": "D:\\src\\learn\\blazor\\LearnBlazor\\Bookstore\\Shared\\BookCard.razor",
+              "RelativeDocumentMoniker": "Bookstore\\Shared\\BookCard.razor",
+              "ToolTip": "D:\\src\\learn\\blazor\\LearnBlazor\\Bookstore\\Shared\\BookCard.razor",
+              "RelativeToolTip": "Bookstore\\Shared\\BookCard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:28:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\src\\learn\\blazor\\LearnBlazor\\Bookstore\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Bookstore\\Pages\\Home.razor",
+              "ToolTip": "D:\\src\\learn\\blazor\\LearnBlazor\\Bookstore\\Pages\\Home.razor",
+              "RelativeToolTip": "Bookstore\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T01:31:21.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "258430c2-8688-467a-bbff-3995f2474b95",
+        "Display": 2,
+        "X": 2064,
+        "Y": 1138,
+        "Width": 1893,
+        "Height": 849,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
