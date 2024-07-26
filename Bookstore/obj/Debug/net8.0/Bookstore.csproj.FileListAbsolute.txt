@@ -1029,3 +1029,4 @@ D:\src\learn\blazor\LearnBlazor\Bookstore\obj\Debug\net8.0\Bookstore.dll
 D:\src\learn\blazor\LearnBlazor\Bookstore\obj\Debug\net8.0\refint\Bookstore.dll
 D:\src\learn\blazor\LearnBlazor\Bookstore\obj\Debug\net8.0\Bookstore.pdb
 D:\src\learn\blazor\LearnBlazor\Bookstore\obj\Debug\net8.0\ref\Bookstore.dll
+D:\src\learn\blazor\LearnBlazor\Bookstore\obj\Debug\net8.0\Bookstore.sourcelink.json

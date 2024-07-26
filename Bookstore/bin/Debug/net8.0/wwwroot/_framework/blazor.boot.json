@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Bookstore",
   "resources": {
-    "hash": "sha256-oDr3s5C8YBbwiIIg5L/xSqWbnRI5qev+zaT2+iE2Bx0=",
+    "hash": "sha256-R6Epgnf2WuhXe8sjQmArQhOb3IiF2geFLnQz+LxoD7s=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.wteyp3hi63.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-fLbZiSHBNdpHoh4EgRqMaNP5NQyIK5TEj6AXFLqo8m8=",
       "netstandard.wasm": "sha256-d4xbAE8qrKq5euUoZHPO+jkYPjlCYBzUew45MKsYKic=",
       "System.Private.CoreLib.wasm": "sha256-8yi6NcX1lkNQgV4WKjnMBYIZyKh4P+OXnXVQmgxGZD4=",
-      "Bookstore.wasm": "sha256-Ksk7QvZf5JnoLbxLk3F3JHRde3GfZ5J0xPZNByXGmUs="
+      "Bookstore.wasm": "sha256-vnOB4phoELHhwlKRteThszNMQ3Dfust2TxcVGZ3t2TU="
     },
     "pdb": {
-      "Bookstore.pdb": "sha256-Dnoi4hx4Th6/zxH6EdPglTrJj7qWgVzbC5UYnTgameY="
+      "Bookstore.pdb": "sha256-yHJCm4i/ICQh1V+EfCo1O3OuIOnqcO87iR3Uzbz9PXk="
     }
   },
   "cacheBootResources": true,

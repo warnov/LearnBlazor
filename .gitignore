@@ -1,0 +1,46 @@
+# Directories to ignore
+**/bin/
+**/obj/
+**/publish/
+**/Properties/PublishProfiles/
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# Files to ignore
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Xx]64/
+**/[Xx]86/
+**/[Aa]rm/
+**/[Aa]rm64/
+**/bld/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# The npm packages
+node_modules/
+
+# Publish Web Output
+wwwroot/dist/
+
+# Blazor output
+**/dist
+**/publish
+
+# Tooling
+.project
+*.swp
+*.lock.json
+*lock.json

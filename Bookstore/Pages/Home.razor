@@ -5,4 +5,25 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
-<Bookstore.Shared.BookCard/>
+<Bookstore.Shared.BookCard Book="_firstBook"/>
+<Bookstore.Shared.BookCard Book="_secondBook" WithButton="false" class="mt-3" />
+
+
+@code
+{
+    private Book _firstBook=new Book
+    {
+        Title = "The Catcher in the Rye",
+        AuthorName = "J.D. Salinger",
+        PublishingDate = new DateTime(1951, 7, 16)
+    };
+
+    private Book _secondBook=new Book
+    {
+        Title = "To Kill a Mockingbird",
+        AuthorName = "Harper Lee",
+        PublishingDate = new DateTime(1960, 7, 11)
+    };
+
+    
+}
